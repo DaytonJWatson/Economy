@@ -1,0 +1,32 @@
+#
+#	Econ
+#
+#
+
+# Default bank values
+defaultAccountBalance: 0.0
+defaultBankBalance: 1000000.0
+defaultCurrency: '$'
+defaultTax: 0.05D
+defaultTaxEnabled: false
+defaultTaxExempt: false
+CONSTRUCTED: false
+
+# Physical currency settings
+currency:
+  material: 'PAPER'
+  worth: 1.0
+  char: '$'
+  name: '&7Cash Voucher'
+
+# Use the banks balance for the economy
+currencyCirculationCap: true
+
+# Gives new players a cash voucher from the bank
+starterFunds:
+  enabled: true
+  amount: 100.0
+
+# Create an account when a player joins 
+# and they don't already have an account.
+createAccountOnJoin: false

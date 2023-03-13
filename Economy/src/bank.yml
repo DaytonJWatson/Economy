@@ -1,0 +1,12 @@
+Bank:
+  balance:
+  currency: 
+  tax: 
+  accounts:
+    UUID:
+      user: USER
+      balance: 100.0
+      currency: $
+      taxExempt: false
+      recentTransactions: {}
+      

@@ -1,0 +1,11 @@
+name: Econ
+author: WatsonLLC
+description: Standalone economy plugin with API
+version: 0.0.1
+api-version: 1.19
+main: com.watsonllc.economy.Econ
+commands:
+  balance:
+  deposit:
+  withdraw:
+  createcoin:

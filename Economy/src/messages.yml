@@ -1,0 +1,4 @@
+balance: '&7Your balance: '
+deposit: '&7You deposited: '
+withdraw: '&7You withdrew: '
+invalid-args: '&cInvalid arguments!'
